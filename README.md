@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello! I'm Jhair Alejandro Cruz Palacios
 
-<!--
-**JhairAlexby/JhairAlexby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 25-year-old software development student from Mexico, passionate about technology and specialized in web programming. My focus is on creating impactful, user-friendly digital experiences.
 
-Here are some ideas to get you started:
+- 🌐 **Specialty**: Web Development
+- 💡 **Interests**: Technology, coding, and constant learning
+- 📚 **Currently Studying**: Expanding my skills in backend and frontend development
+- 🎯 **Goal**: To build innovative software solutions that make a difference
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect!
+- [LinkedIn](https://www.linkedin.com/) - [Portfolio](https://www.yourportfolio.com/)
+
+> "Every day is a new opportunity to learn and grow."
