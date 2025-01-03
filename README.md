@@ -11,7 +11,6 @@
       />
     </td>
 
-    <!-- Columna 2: Encabezado y texto -->
     <td style="vertical-align: top; padding-left: 20px;">
       <h1>👋 Hello! I'm Jhair Alejandro Cruz Palacios</h1>
       <p>
