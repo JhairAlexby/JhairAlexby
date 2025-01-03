@@ -1,4 +1,4 @@
-![Jhair Alejandro Cruz Palacios Banner](https://i0.wp.com/cuatrocirculos.com/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-23-at-19.22.48.jpeg?ssl=1)
+![Jhair Alejandro Cruz Palacios Banner]([https://i0.wp.com/cuatrocirculos.com/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-23-at-19.22.48.jpeg?ssl=1](https://giffiles.alphacoders.com/196/196058.gif))
 
 # 👋 Hello! I'm Jhair Alejandro Cruz Palacios
 
