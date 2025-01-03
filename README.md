@@ -1,5 +1,4 @@
-<!-- Deja una línea en blanco arriba para separar del contenido anterior -->
-
+<!-- Tabla para la imagen y el texto principal -->
 <table>
   <tr>
     <td width="200" style="vertical-align: top;">
@@ -28,77 +27,28 @@
 </table>
 
 <h2>Tech Stack</h2>
+<!-- Opción 1: Todos los iconos seguidos en una sola línea -->
 <p>
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-    alt="React" 
-    width="40" 
-    style="margin-right: 10px;" 
-  />
-
-   <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" 
-       alt="Next.js Logo" 
-       width="40" 
-       style="margin-right: 10px;" 
-  />
-  <!-- Nest.js -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
-       alt="Nest.js Logo" 
-       width="40" 
-       style="margin-right: 10px;"
-  />
-
-   <!-- MongoDB -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
-       alt="MongoDB Logo" 
-       width="40" 
-       style="margin-right: 10px;" 
-  />
-  <!-- PostgreSQL -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
-       alt="PostgreSQL Logo" 
-       width="40" 
-       style="margin-right: 10px;" 
-  />
-  <!-- MySQL -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
-       alt="MySQL Logo" 
-       width="40" 
-       style="margin-right: 10px;" 
-  />
-  <!-- JavaScript -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-       alt="JavaScript Logo" 
-       width="40" 
-       style="margin-right: 10px;" 
-  />
-  <!-- TypeScript -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-       alt="TypeScript Logo" 
-       width="40" 
-       style="margin-right: 10px;" 
-  />
-  <!-- Java -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-       alt="Java Logo" 
-       width="40" 
-       style="margin-right: 10px;" 
-  />
-  <!-- Python -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-       alt="Python Logo" 
-       width="40" 
-       style="margin-right: 10px;" 
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+    alt="React" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" 
+    alt="Next.js" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
+    alt="Nest.js" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+    alt="MongoDB" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
+    alt="PostgreSQL" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
+    alt="MySQL" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+    alt="JavaScript" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+    alt="TypeScript" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+    alt="Java" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+    alt="Python" width="40" style="margin-right: 10px;" />
 </p>
 
 <h2>¡Conectemos!</h2>
