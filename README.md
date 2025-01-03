@@ -1,36 +1,38 @@
-<!-- Título en HTML para evitar líneas inesperadas -->
-<h1>👋 Hello! I'm Jhair Alejandro Cruz Palacios</h1>
+<!-- Tabla para organizar imagen y texto uno al lado del otro -->
+<table>
+  <tr>
+    <!-- Columna 1: Imagen -->
+    <td width="200" style="vertical-align: top;">
+      <img 
+        src="https://giffiles.alphacoders.com/196/196102.gif"
+        width="200"
+        alt="GIF de bienvenida" 
+        style="border-radius: 10px;"
+      />
+    </td>
 
-<!-- Salto opcional para separar el título del contenido -->
-<br />
+    <!-- Columna 2: Encabezado y texto -->
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h1>👋 Hello! I'm Jhair Alejandro Cruz Palacios</h1>
+      <p>
+        Soy un estudiante de desarrollo de software de 25 años de México, 
+        apasionado por la tecnología y especializado en programación web. 
+        Mi enfoque es crear experiencias digitales impactantes y fáciles de usar.
+      </p>
 
-<!-- Contenido con imagen flotante a la izquierda y texto -->
-<p>
-  <img
-    align="left"
-    src="https://giffiles.alphacoders.com/196/196102.gif"
-    width="200"
-    alt="GIF de bienvenida"
-    style="margin-right:15px;"
-  />
-  Soy un estudiante de desarrollo de software de 25 años de México, apasionado por la tecnología 
-  y especializado en programación web. Mi enfoque es crear experiencias digitales 
-  impactantes y fáciles de usar.
-</p>
+      <ul>
+        <li>🌐 <strong>Especialidad</strong>: Desarrollo Web</li>
+        <li>💡 <strong>Intereses</strong>: Tecnología, programación y aprendizaje constante</li>
+        <li>📚 <strong>Actualmente Estudiando</strong>: Expandiendo habilidades en backend y frontend</li>
+        <li>🎯 <strong>Meta</strong>: Crear soluciones de software innovadoras que marquen la diferencia</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- Lista de detalles personales -->
-<ul>
-  <li>🌐 <strong>Especialidad</strong>: Desarrollo Web</li>
-  <li>💡 <strong>Intereses</strong>: Tecnología, programación y aprendizaje constante</li>
-  <li>📚 <strong>Actualmente Estudiando</strong>: Expandiendo habilidades en backend y frontend</li>
-  <li>🎯 <strong>Meta</strong>: Crear soluciones de software innovadoras que marquen la diferencia</li>
-</ul>
+---
 
-<!-- Salto de línea para que el texto no colisione con la imagen flotante -->
-<br />
-<br />
-
-<!-- Sección de Tecnologías -->
+<!-- Sección de Tech Stack -->
 <h2>Tech Stack</h2>
 <p>
   <!-- React -->
@@ -105,11 +107,8 @@
   />
 </p>
 
-<!-- Otro par de saltos de línea para separar la sección -->
-<br />
-<br />
+---
 
-<!-- Sección de enlaces -->
 <h2>¡Conectemos!</h2>
 <ul>
   <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
