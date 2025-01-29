@@ -1,62 +1,51 @@
-<!-- Tabla para la imagen y el texto principal -->
-<table>
-  <tr>
-    <td width="200" style="vertical-align: top;">
-      <img 
-        src="https://giffiles.alphacoders.com/196/196102.gif"
-        width="200"
-        alt="GIF de bienvenida"
-        style="border-radius:10px;"
-      />
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h1>👋 Hello! I'm Jhair Alejandro Cruz Palacios</h1>
-      <p>
-        Soy un estudiante de desarrollo de software de 25 años de México, 
-        apasionado por la tecnología y especializado en programación web. 
-        Mi enfoque es crear experiencias digitales impactantes y fáciles de usar.
-      </p>
-      <ul>
-        <li>🌐 <strong>Especialidad</strong>: Desarrollo Web</li>
-        <li>💡 <strong>Intereses</strong>: Tecnología, programación y aprendizaje constante</li>
-        <li>📚 <strong>Actualmente Estudiando</strong>: Expandiendo habilidades en backend y frontend</li>
-        <li>🎯 <strong>Meta</strong>: Crear soluciones de software innovadoras que marquen la diferencia</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/196/196102.gif" width="200" alt="Welcome GIF" style="border-radius: 10px;"/>
+</div>
 
-<h2>Tech Stack</h2>
-<!-- Opción 1: Todos los iconos seguidos en una sola línea -->
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-    alt="React" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" 
-    alt="Next.js" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
-    alt="Nest.js" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
-    alt="MongoDB" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
-    alt="PostgreSQL" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
-    alt="MySQL" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-    alt="JavaScript" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-    alt="TypeScript" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-    alt="Java" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-    alt="Python" width="40" style="margin-right: 10px;" />
-</p>
+# 👋 ¡Hola! Soy Jhair Alejandro Cruz Palacios
 
-<h2>¡Conectemos!</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
-  <li><a href="https://www.yourportfolio.com/">Portfolio</a></li>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yourportfolio.com/)
 
-<blockquote>
-  "Every day is a new opportunity to learn and grow."
-</blockquote>
+## 👨‍💻 Sobre mí
+
+Soy un desarrollador de software mexicano de 25 años, apasionado por crear soluciones tecnológicas innovadoras. Me especializo en desarrollo web full-stack, con un fuerte compromiso por construir experiencias digitales intuitivas y de alto impacto.
+
+- 🎓 Estudiante de Desarrollo de Software
+- 💻 Especializado en Desarrollo Web Full-Stack
+- 🌱 Constantemente aprendiendo y mejorando mis habilidades
+- 🚀 Enfocado en crear soluciones que marquen la diferencia
+
+## 🛠️ Stack Tecnológico
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Bases de Datos
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+## 💭 Frase Favorita
+
+> "Every day is a new opportunity to learn and grow."
+
+---
+<div align="center">
+  <sub>🌟 ¡No dudes en contactarme para colaboraciones o propuestas interesantes! 🌟</sub>
+</div>
