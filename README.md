@@ -43,9 +43,9 @@ Soy un desarrollador de software mexicano de 25 años, apasionado por crear solu
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/TU_USERNAME">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/JhairAlexby">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhairAlexby&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhairAlexby&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
 
