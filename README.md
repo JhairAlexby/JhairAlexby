@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ###  Transformando ideas en código, una línea a la vez
+  ### Tu lo imaginas, nosotros lo programamos
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Especialista+en+Astro+%7C+Next.js+%7C+Nest.js;Arquitectura+de+microservicios+y+soluciones+escalables;Apasionado+por+crear+experiencias+web+excepcionales)](https://git.io/typing-svg)
   
@@ -17,11 +17,11 @@
 
 ---
 
-## 💫 Sobre Mí
+## Sobre Mí
 
 ```typescript
 const jhairAlexby = {
-  ubicación: "Chiapas, México 🇲🇽",
+  ubicación: "Chiapas, México",
   edad: 25,
   educación: "Ingeniería en Desarrollo de Software @ UP CHIAPAS",
   enfoque: ["Web Development", "Microservices", "UI/UX"],
@@ -29,15 +29,15 @@ const jhairAlexby = {
   código: ["TypeScript", "JavaScript", "Python", "Java", "Dart"],
   
   frameworks_favoritos: {
-    frontend: ["Astro 🚀", "Next.js ⚡", "React"],
-    backend: ["Nest.js 🔥", "Express"],
+    frontend: ["Astro", "Next.js", "React"],
+    backend: ["Nest.js", "Express"],
     mobile: ["Flutter"]
   },
   
   trabajando_en: [
-    "🏛️ CMS político con arquitectura de microservicios",
-    "📱 App de exploración urbana con Flutter + Mapbox",
-    "🏥 Sistema de administración de pacientes"
+    "CMS político con arquitectura de microservicios",
+    "App de exploración urbana con Flutter + Mapbox",
+    "Sistema de administración de pacientes"
   ],
   
   aprendiendo: ["AI Integration", "Clean Architecture", "Event Sourcing"],
